@@ -1,12 +1,5 @@
 // Algoritmo simples para somar numeros primos
-/* Codado ao som de:
-*                   Cannibal Corpse: Scourge of Iron
-*                   Cannibal Corpse: Evisceration Plague                  
-*                   Ghostmane: John Dee
-*                   LaFuria; Mete Seu Cachorro
-*                   
-*                   **(Jamais tente entender minha playlist!)
-*/
+
 
 function primeNumbers(num) {
 
